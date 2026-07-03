@@ -93,9 +93,19 @@ Sau bảng, thêm **💡 Word cluster**: gom các từ cùng chủ đề bài ng
 ## 6. Bản dịch tiếng Việt (theo đáp án chuẩn)
 
 <Dịch toàn bộ transcript chuẩn sang tiếng Việt, giữ nhãn người nói (M/W hoặc B/G).>
+
+---
+
+## 7. Đáp án chuẩn (highlight chỗ bạn sai)
+
+> **Chú thích:** 🔴 **chữ tô đậm** + 🔴 = chỗ bạn chép sai · ~~(từ bạn đã chép)~~ đặt ngay sau · ⬜ **[bỏ sót]** = chỗ thiếu · ✅ = câu/cụm chép đúng.
+
+<Viết lại TOÀN BỘ transcript chuẩn theo dòng, giữ nhãn người nói. Ngay tại mỗi chỗ sai, đặt từ đúng dạng 🔴**từ đúng**🔴 rồi kèm ngay sau ~~(từ bạn đã chép)~~. Chỗ thiếu đánh dấu ⬜**[bỏ sót]**. Câu/cụm chép đúng đánh dấu ✅ ở cuối câu.>
+
+> <Một dòng tổng kết cuối: chỉ ra nhóm từ vấp nhiều nhất và khen phần làm tốt.>
 ```
 
-Khi người dùng yêu cầu "lưu lại", xuất bản hoàn chỉnh (đủ 6 phần) ra file `unit_<n>_result.md` trong thư mục skill này.
+Khi người dùng yêu cầu "lưu lại", xuất bản hoàn chỉnh (đủ 7 phần) ra file `unit_<n>_result.md` trong thư mục skill này.
 
 ## Nguyên tắc chấm điểm (thang 10)
 
